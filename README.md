@@ -1,5 +1,5 @@
 # Opa, seja bem-vindo!
-##Sou o Gabriel, um estusiasta programador, e estudante de Sistemas para Internet.
+## Sou o Gabriel, um estusiasta programador, e estudante de Sistemas para Internet.
 
 <!--
 **srfirew/srfirew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
