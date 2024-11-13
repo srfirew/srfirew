@@ -1,6 +1,9 @@
 # Opa, seja bem-vindo!
 ## Me chamo Gabriel, sou um estusiasta programador e estudante de Sistemas para Internet. 
 
+## Tecnologias:
+<img lading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
 <!--
 **srfirew/srfirew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
