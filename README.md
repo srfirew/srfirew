@@ -7,7 +7,7 @@
 • Sou programador front-end, e sempre fui apaixonado por tecnologia e programação desde criança!
 
 ## 📌 Tecnologias:
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="45" height="45" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="45" height="45" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" />  <img width="45" height="45" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-sass-a-style-sheet-professional-grade-css-extension-language-logo-color-tal-revivo.png" alt="external-sass-a-style-sheet-professional-grade-css-extension-language-logo-color-tal-revivo"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="45" height="45" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="45" height="45" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" /> <img width="45px" height="45" src="https://img.icons8.com/?size=100&id=vEiU8UeAmv0x&format=png&color=000000" >
 
 <br>
 
