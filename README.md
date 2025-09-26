@@ -3,7 +3,7 @@
 ## 🎯 Me chamo Gabriel, sou um estusiasta programador e estudante de Sistemas para Internet. 
 
 ## 💫 Sobre mim:
-• Opa, sou Gabriel! Tenho 17 anos e atualmente curso a faculdade de Sistemas para Internet - IFTO.<br>
+• Opa, sou Gabriel! Tenho 18 anos e atualmente curso a faculdade de Sistemas para Internet - IFTO.<br>
 • Sou programador front-end, e sempre fui apaixonado por tecnologia e programação desde criança!
 
 ## 📌 Tecnologias:
