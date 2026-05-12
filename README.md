@@ -1,4 +1,4 @@
-
+<img width="1024" height="369" alt="image" src="https://github.com/user-attachments/assets/8596a40b-5434-4e9b-8429-31e578d80661" />
 # Opa, seja bem-vindo!
 ## 🎯 Me chamo Gabriel, sou um estusiasta programador e estudante de Sistemas para Internet. 
 
@@ -14,7 +14,7 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" /> 
 <img src="https://img.icons8.com/?size=100&id=vEiU8UeAmv0x&format=png&color=000000" width="50" height="50" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" />
-<img src="https://flet.dev/img/logo.svg" width="50" height="50" />
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="50" height="50" />
                     
 </div>
 
