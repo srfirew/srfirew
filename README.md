@@ -1,4 +1,4 @@
-<img width="1024" height="369" alt="image" src="https://github.com/user-attachments/assets/8596a40b-5434-4e9b-8429-31e578d80661" />
+
 # Opa, seja bem-vindo!
 ## 🎯 Me chamo Gabriel, sou um estusiasta programador e estudante de Sistemas para Internet. 
 
