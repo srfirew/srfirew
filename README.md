@@ -21,6 +21,4 @@
                     
 </div>
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=firewwdev&langs_count=5&theme=ayu-mirage)
-
 <br>
